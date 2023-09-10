@@ -1,0 +1,7 @@
+C:\Users\Srava\OneDrive\Desktop\CustomerDemo\CustomerDemoAPI\obj\Debug\netcoreapp3.0\CustomerDemoAPI.csproj.AssemblyReference.cache
+C:\Users\Srava\OneDrive\Desktop\CustomerDemo\CustomerDemoAPI\obj\Debug\netcoreapp3.0\CustomerDemoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srava\OneDrive\Desktop\CustomerDemo\CustomerDemoAPI\obj\Debug\netcoreapp3.0\CustomerDemoAPI.AssemblyInfoInputs.cache
+C:\Users\Srava\OneDrive\Desktop\CustomerDemo\CustomerDemoAPI\obj\Debug\netcoreapp3.0\CustomerDemoAPI.AssemblyInfo.cs
+C:\Users\Srava\OneDrive\Desktop\CustomerDemo\CustomerDemoAPI\obj\Debug\netcoreapp3.0\CustomerDemoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Srava\OneDrive\Desktop\CustomerDemo\CustomerDemoAPI\obj\Debug\netcoreapp3.0\CustomerDemoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Srava\OneDrive\Desktop\CustomerDemo\CustomerDemoAPI\obj\Debug\netcoreapp3.0\CustomerDemoAPI.MvcApplicationPartsAssemblyInfo.cache
