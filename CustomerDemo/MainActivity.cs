@@ -40,7 +40,13 @@ namespace CustomerDemo
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
+            InitViews();
 
+           
+        }
+
+        private void InitViews()
+        {
             fetchButton = FindViewById<Button>(Resource.Id.fetchButton);
             applydiscount = FindViewById<Button>(Resource.Id.applydiscount);
             progressBar = FindViewById<ProgressBar>(Resource.Id.progressBar);
@@ -57,7 +63,7 @@ namespace CustomerDemo
                     List<Order> orders = await apiService.FetchOrders();
                     List<OrderItems> ordersItems = await apiService.FetchOrderItems();
 
-                    if (customers != null && orders!=null && ordersItems!=null)
+                    if (customers != null && orders != null && ordersItems != null)
                     {
                         progressBar.Visibility = ViewStates.Gone;
                         PopulateData(customers, orders, ordersItems);
@@ -74,7 +80,7 @@ namespace CustomerDemo
                     ShowSnackbar("No internet connection. Please check and try again");
                 }
 
-               
+
 
 
             };
